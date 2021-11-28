@@ -30,7 +30,8 @@ What is the optimal amount infromation that the platform should disclose to incr
 each rider after setting the destination observes the price and decides to request the ride or not (Step one)
 after the platform found the driver, the pick up time is shown to rider and she can decide to cancel or keep the ride (step two)
 
-This part shows some data descibtion of riders and drivers behaviors
+This part shows some data descibtion of riders and drivers behaviors.
+https://github.com/eaf4030/demand/blob/main/Data%20Description.ipynb
 
 ## Demand
 
