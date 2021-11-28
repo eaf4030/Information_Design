@@ -41,6 +41,9 @@ https://github.com/eaf4030/demand/blob/main/Data%20Description.ipynb
 I create a two step model. In the first step, it models the binary choice of requesting or not and in the second step the binary choice of canceling or not.
 Since I only observe the second choice, the data is endogenous sample and a simple binary choice model estimation is bias.
 
+Code and Result:
+https://github.com/eaf4030/demand/blob/main/Model.ipynb
+
 ```
 dfdsfsdf
 
