@@ -47,7 +47,3 @@ Since I only observe the second choice, the data is endogenous sample and a simp
 Code and Result:
 https://github.com/eaf4030/demand/blob/main/Model.ipynb
 
-```
-dfdsfsdf
-
-```
