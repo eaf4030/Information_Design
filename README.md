@@ -31,7 +31,10 @@ each rider after setting the destination observes the price and decides to reque
 after the platform found the driver, the pick up time is shown to rider and she can decide to cancel or keep the ride (step two)
 
 This part shows some data descibtion of riders and drivers behaviors.
-https://github.com/eaf4030/demand/blob/main/Data%20Description.ipynb
+
+Demand : https://github.com/eaf4030/demand/blob/main/Data%20Description.ipynb
+
+Supply : https://github.com/eaf4030/demand/blob/main/Supply_data_description.ipynb
 
 ## Demand
 
@@ -44,7 +47,3 @@ Since I only observe the second choice, the data is endogenous sample and a simp
 Code and Result:
 https://github.com/eaf4030/demand/blob/main/Model.ipynb
 
-```
-dfdsfsdf
-
-```
