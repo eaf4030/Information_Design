@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Platfrom can descide how much information about the trips disclose to drivers.
+Platform can decide how much information about the trips disclose to drivers.
 1. **Full Information Disclosure:** Platform disclose all the information of trips
  * Higher Quality of Match: the drivers make informed decision and this increase the value of working and increase the supply in return.
  * Longer wiating time for riders and other drivers: Drivers reject many rides to find the ones which has enough value for them. Therefore, the acceptace rate goes down and the riders have to wait longer to find the ride. Some of them might not find ny ride at all.
