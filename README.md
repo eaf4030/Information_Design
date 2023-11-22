@@ -1,6 +1,5 @@
 # Information Design
 
-Link to paper: https://drive.google.com/file/d/10Z18UjcMPsBudhRwZjUYXscavtcK9Wta/view?usp=share_link
 
 ## Introduction
 
